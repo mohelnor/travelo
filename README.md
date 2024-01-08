@@ -1,16 +1,9 @@
 # travelo
 
-A new Flutter project.
+this app is more realistic than the other once it explains how the bus booking process is done 
+the data is collected from real bus workers '
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-- travel-web is the backend for this work 
+-- I hope you enjoy tweaking this project.
