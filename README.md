@@ -5,5 +5,5 @@ the data is collected from real bus workers '
 
 ## Getting Started
 
--- travel-web is the backend for this work 
--- I hope you enjoy tweaking this project.
+- travel-web is the backend for this work 
+- I hope you enjoy tweaking this project.
